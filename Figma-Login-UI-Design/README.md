@@ -8,7 +8,7 @@ The design represents a clean and modern mobile *Login Screen*.
 ## 📸 Preview
 Below is the design included in this project:
 
-![Login Screen](login-screen-ui.png)
+![Login Screen](<login-screen-ui.png>)
 
 ---
 
