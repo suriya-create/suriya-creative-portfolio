@@ -19,5 +19,5 @@ Ideal for UI/UX practice or HTML/CSS beginner projects
 
 
 
-# Designer BY :Suriya
+# Designer By :Suriya
 UI/UX Design
